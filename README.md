@@ -1,2 +1,2 @@
-# love-calculator
-A demo python code to calculate a love match between two people
+# Python-codes
+A compilation of the python lessons I have been taking
